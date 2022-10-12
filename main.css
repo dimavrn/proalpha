@@ -1,6 +1,3 @@
-/* Second comment */
-
-/* new aad */
 .mr {
 	/* float: right; */
 	/* font: 15px Neue Haas Unica; */
@@ -25,6 +22,8 @@ top: 47px;
 	font-weight: 400;
 	min-height: 130px;
 }
+
+/*  */
 #page {
     width: 1464px;
     margin: 0 auto;
